@@ -1,9 +1,0 @@
-import styles from './page.module.css'
-
-export default function Navbar() {
-  return (
-    <main className={styles.main}>
-      
-    </main>
-  )
-}
